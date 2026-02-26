@@ -17,9 +17,7 @@ This project demonstrates basic computer network using Cisco Packet Tracer
 ## Project Contents
  • .pkt file (Packet Tracer project file)
 
-⸻
-
-📌 Requirements
+## Requirements
  • Installed Cisco Packet Tracer
  • Basic understanding of IP addressing and network devices
 
